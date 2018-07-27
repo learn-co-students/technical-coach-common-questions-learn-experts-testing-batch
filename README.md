@@ -57,7 +57,7 @@ Environment or syntax errors or program breaks when running tests.
 
 *  **Some labs require the student to start coding before they can run the tests**. For example, some of the Sinatra labs require some migrations to be written first - otherwise, the student will get strange error messages when running the tests. You may need to probe to determine if this is the case or it's an environment issue. If the lab does require the student to write some code, employ teaching strategies to get the student to fix it.
 
-## 3) Tests run but student gets error messages they don’t know how to fix.
+## 3) Tests run but student gets error messages they don’t know how to fix
 
 ![tests fail](http://i.giphy.com/xT8qB2HYA1vVSxooSY.gif "Tests fail")
 
@@ -136,7 +136,7 @@ We don't support these types of questions. These questions are usually regarding
   * **Instructional Videos**: There are quite a few videos you can search through at [http://instruction.learn.co](http://instruction.learn.co). This is a great resource that the student should check first.
   * **Study Groups**: If none of the videos were helpful and they're still stuck on a particular concept, suggest they check out some of the Study Groups we run every week. This is a great time to learn about a particular concept as well be able to ask questions to a live Technical Coach.
   * **1:1 Portfolio Support**: If neither videos nor Study Groups were able to resolve the student's problem, have them schedule a 30 minute 1:1 session with a portfolio coach](https://theflatironschool.typeform.com/to/UUhrc7). For more info and the link to book a session, you can check out this article on the help center: http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project
-  * **DM the Section Lead**: If the student is still struggling, even after a 1:1 portfolio support session, they can contact the [section lead](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for that particular section.
+  * **DM the Section Lead**: If the student is still struggling, even after a 1:1 portfolio support session, they can contact the [section lead](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) for that particular section.
 
 * **All other questions**: Tell them we don't support the question type. We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions or assessments, kindly tell them we don't support the question they're asking. If the question is related to the curriculum, feel free to answer it if time is available. Otherwise you may want to give them a link to a resource or point them in the direction they should proceed (eg try googling it, checking stack overflow, asking in the Slack channel, etc).
 
@@ -147,4 +147,4 @@ We don't support these types of questions. These questions are usually regarding
 * [Instructional Videos](http://instruction.learn.co)
 * [Portfolio Project Support Help Center Article](http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project)
 * [Portfolio Project Support Form](https://theflatironschool.typeform.com/to/UUhrc7)
-* [Section leads](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) 
+* [Section leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) 
