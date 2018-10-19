@@ -111,7 +111,7 @@ Students are struggling the broader or underlying concepts that were covered, no
 
 * **Document the issue**: After explaining the concept, if the student still doesn't understand, document the issue in their admin profile. Click on their icon in at the top of their question in AAQ to get to the student’s `/admin` page. Make a note that the student is having an issue with the specific concept and explain where they're lost and what you steps you took to try to explain the issue, as well as any other relevant info.
 
-* **Escalate the issue**: If you see other TCs have already pointed out that this student doesn’t understand the concept, [fill out the Additional Support form noted in this article](https://github.com/flatiron-labs/technical-coach-resources/blob/master/feedback.md). **Note: If it's a paying student, it is especially important to leave a note in their admin profile and email or Slack the Technical Coach Manager or the Section Lead in so we can get this student additional help!**
+* **Escalate the issue**: If you see other TCs have already pointed out that this student doesn’t understand the concept, [fill out the Additional Support form noted in this article](https://github.com/flatiron-labs/technical-coach-resources/blob/master/feedback.md). **Note: If it's a paying student, it is especially important to leave a note in their admin profile and email or Slack the Faculty Manager, the Section Lead, or their Cohort Lead so we can get this student additional help!**
 
 **Video Example** [Student is having issues conceptually and needs guidance to get on the right track](https://youtu.be/q2WoFBdyXxI)
 
@@ -135,6 +135,8 @@ We don't support these types of questions. These questions are usually regarding
 * **Assessment questions**: We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking Technical Coaches for help with their assessment project. There are a number of solutions for handling assessment questions, listed below in order of precedence.
   * **Instructional Videos**: There are quite a few videos you can search through at [http://instruction.learn.co](http://instruction.learn.co). This is a great resource that the student should check first.
   * **Study Groups**: If none of the videos were helpful and they're still stuck on a particular concept, suggest they check out some of the Study Groups we run every week. This is a great time to learn about a particular concept as well be able to ask questions to a live Technical Coach.
+
+  **10/19/18: The following solutions are being phased out. Please consult with your TCL before doing either of these.**
   * **1:1 Portfolio Support**: If neither videos nor Study Groups were able to resolve the student's problem, have them schedule a 30 minute 1:1 session with a portfolio coach](https://theflatironschool.typeform.com/to/UUhrc7). For more info and the link to book a session, you can check out this article on the help center: http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project
   * **DM the Section Lead**: If the student is still struggling, even after a 1:1 portfolio support session, they can contact the [section lead](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) for that particular section.
 
