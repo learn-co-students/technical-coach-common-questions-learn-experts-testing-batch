@@ -56,6 +56,8 @@ Environment or syntax errors or program breaks when running tests.
 
 * **If it's a syntax error** and you know that it’s something that the student did wrong with their code, then employ teaching strategies to solve it (e.g. the Socratic Method). Read through the error and ask the student if they know what this error means. If the student doesn’t know within three questions of you asking, then point it out specifically. Then tell them to look through their code and see if they are missing anything and have them re-run it. After 10 minutes of this, if they’re still stuck, have them ask you again. At this point, you can provide them with the answer. A lot of times the error will tell you what line has a syntax issue. Make sure you point this out to the student and show them how you are solving it, so they can replicate your technique! *(Example: running a chunk of problem code in IRB or Chrome console)*.
 
+* **If it's an infinite loop** 
+
 *  **Some labs require the student to start coding before they can run the tests**. For example, some of the Sinatra labs require some migrations to be written first - otherwise, the student will get strange error messages when running the tests. You may need to probe to determine if this is the case or it's an environment issue. If the lab does require the student to write some code, employ teaching strategies to get the student to fix it.
 
 ## 3) Tests run but student gets error messages they don’t know how to fix
