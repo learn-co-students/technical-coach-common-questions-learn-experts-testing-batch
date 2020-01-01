@@ -4,27 +4,27 @@
 
 As a Technical Coach, you’ll get all sorts of question from all sorts of different students. It can be overwhelming to have to constantly switch contexts (in terms of the student, the topic, and the question). Broadly speaking, the questions will fall into one of more of the five categories listed below:
 
-* **Learn/IDE/Workflow Issues**
+* **Learn/IDE/Workflow issues**
 * **Lab tests don't run**
 * **Tests run but student gets error messages they don’t know how to fix**
 * **Conceptual questions**
 * **Unsupported questions**
 
-For each category of question, we’ve given examples as well as specific strategies you can use to resolve them. 
+For each category of question, we’ve given examples as well as specific strategies you can use to resolve them.
 
 ## 1) Learn/IDE/Workflow Issues
 
 ### Issue
-Problems with the platform and workflow (lights/IDE/empty cloned directory/billing/etc) 
+Problems with the platform and workflow (lights/IDE/empty cloned directory/billing/etc)
 
 ### Common Examples
 * Lights do not turn green
 * `learn open` and `learn submit` do not work
 * The lesson directory is empty
-* When submitting lessons, the student is asked to enter their username and password 
+* When submitting lessons, the student is asked to enter their username and password
 
 ### Strategies for Resolution
-Solve the problem for the student or if they can keep moving on in the curriculum, tell them to just keep going. Report a bug if needed, but get the student to move on if possible.
+Solve the problem for the student - often the Learn.co help articles or the #tc_support channel will have fixes for platform-related issues. If you're not able to resolve the issue, file a ticket if necessary, and get the student to move on if possible.
 
 These questions are not related to the specific content of the lesson but are usually issues students are having that are preventing them from moving forward. With these questions, the goal is to resolve them as quickly as possible so they can continue working on the lessons.
 
@@ -49,7 +49,7 @@ Environment or syntax errors or program breaks when running tests.
 ### Strategies for Resolution
 *  **If it's an environment issue**, we can solve it for the student. Take a few minutes to investigate and see if you understand what the problem is. If you do, then tell the student first, in one or two sentences, what the error is. After, that tell the student that you will walk them through the steps to fix if it’s short. If it's more complicated, you can do it for them over screen share. If it's an error related to Virtual Box, [check out this articles about common VB Errors and related resources](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md).
 
-    - For example, if it’s an issue with their gems and they need to run `bundle install`, tell them explicitly what the problem is and then say, "Okay, here are the steps to fix it and we’ll see what happens". 
+    - For example, if it’s an issue with their gems and they need to run `bundle install`, tell them explicitly what the problem is and then say, "Okay, here are the steps to fix it and we’ll see what happens".
     - Walk them through the commands. Depending on how long the process took, end this with a debrief of what you just did.
     - Send any helpful links or resources that the student can use as a reference.
 
@@ -94,7 +94,7 @@ In this case, review the strategies for fixing conceptual questions listed below
 
 ### Issue
 
-Students are struggling the broader or underlying concepts that were covered, not specific tests. 
+Students are struggling the broader or underlying concepts that were covered, not specific tests.
 
 ### Common Examples
 
@@ -107,7 +107,7 @@ Students are struggling the broader or underlying concepts that were covered, no
 
 * **Link them to a video**: Some common or beginner conceptual issues can be resolved by linking the student to a pre-recorded video we have in our video archive, [which you can access here](http://instruction.learn.co).
 
-* **Teaching mode**: You can try and solve the student’s issue through a comprehensive walkthrough of the concept. Pull out from the context of the specific lesson the student is working with and give other code examples of the concept. Ask the student to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there. Once you know where they’re having trouble,  break down the concept into smaller components and explain how these components build on top of each other. Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer. At some point you’ll see where exactly the student is lost. From there, take the reins and continue demoing the rest of the concept, slowly and as clearly as possible. Every few minutes, check to make sure that the student understands what you’re presenting or if they need clarification. At the end of the demo, have the student summarize the concept. 
+* **Teaching mode**: You can try and solve the student’s issue through a comprehensive walkthrough of the concept. Pull out from the context of the specific lesson the student is working with and give other code examples of the concept. Ask the student to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there. Once you know where they’re having trouble,  break down the concept into smaller components and explain how these components build on top of each other. Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer. At some point you’ll see where exactly the student is lost. From there, take the reins and continue demoing the rest of the concept, slowly and as clearly as possible. Every few minutes, check to make sure that the student understands what you’re presenting or if they need clarification. At the end of the demo, have the student summarize the concept.
 
 * **Document the issue**: After explaining the concept, if the student still doesn't understand, document the issue in their admin profile. Click on their icon in at the top of their question in AAQ to get to the student’s `/admin` page. Make a note that the student is having an issue with the specific concept and explain where they're lost and what you steps you took to try to explain the issue, as well as any other relevant info.
 
@@ -130,7 +130,7 @@ We don't support these types of questions. These questions are usually regarding
 
 ### Strategies for Resolution
 
-* **Admissions or billing questions**: Questions regarding admissions or billing can be referred to the admission department. This can be done by clicking on the `Assign to enrollments` button in the bottom of the chat window, between `Resolve` and `Log Bug Report`. Let the student know that this will resolve the question and that they should hear back from someone within 24 hours. 
+* **Admissions or billing questions**: Questions regarding admissions or billing can be referred to the admission department. This can be done by clicking on the `Assign to enrollments` button in the bottom of the chat window, between `Resolve` and `Log Bug Report`. Let the student know that this will resolve the question and that they should hear back from someone within 24 hours.
 
 * **Assessment questions**: We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking Technical Coaches for help with their assessment project. There are a number of solutions for handling assessment questions, listed below in order of precedence.
   * **Instructional Videos**: There are quite a few videos you can search through at [http://instruction.learn.co](http://instruction.learn.co). This is a great resource that the student should check first.
@@ -149,4 +149,4 @@ We don't support these types of questions. These questions are usually regarding
 * [Instructional Videos](http://instruction.learn.co)
 * [Portfolio Project Support Help Center Article](http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project)
 * [Portfolio Project Support Form](https://theflatironschool.typeform.com/to/UUhrc7)
-* [Section leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md) 
+* [Section leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md)
