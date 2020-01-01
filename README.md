@@ -97,20 +97,20 @@ In this case, review the strategies for fixing conceptual questions listed below
 
 ### Issue
 
-Students are struggling the broader or underlying concepts that were covered, not specific tests.
+Students are struggling to understand the broader or underlying concepts that were covered, not specific tests.
 
 ### Common Examples
 
 * Students do not understand the instructions of a lab
 * Students do not understand one specific instruction or how to get a test to pass on a lab
 * Students ask about a specific concept
-* Students may initially have questions about failing tests, but after you’ve debugged and worked with them, you realize there are larger concepts that they don’t understand fully. (eg You're working on rails form helpers and then realize that they have no idea what `params` is)
+* Students may initially have questions about failing tests, but after you’ve debugged and worked with them, you realize there are larger concepts that they don’t understand fully. (e.g. You're working on rails form helpers and then realize that they have no idea what `params` is)
 
 ### Strategies for Resolution
 
 * **Link them to a video**: Some common or beginner conceptual issues can be resolved by linking the student to a pre-recorded video we have in our video archive, [which you can access here](http://instruction.learn.co).
 
-* **Teaching mode**: You can try and solve the student’s issue through a comprehensive walkthrough of the concept. Pull out from the context of the specific lesson the student is working with and give other code examples of the concept. Ask the student to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there. Once you know where they’re having trouble,  break down the concept into smaller components and explain how these components build on top of each other. Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer. At some point you’ll see where exactly the student is lost. From there, take the reins and continue demoing the rest of the concept, slowly and as clearly as possible. Every few minutes, check to make sure that the student understands what you’re presenting or if they need clarification. At the end of the demo, have the student summarize the concept.
+* **Teaching mode**: You can try and solve the student’s issue through a comprehensive walkthrough of the concept. Pull out from the context of the specific lesson the student is working with and give other code examples of the concept. Ask the student to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there. Once you know where they’re having trouble,  break down the concept into smaller components and explain how these components build on top of each other. Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer. At some point you’ll see where exactly the student is lost. From there, take the reins and continue demoing the rest of the concept as slowly and as clearly as possible. Every few minutes, check to make sure that the student understands what you’re presenting or if they need clarification. At the end of the demo, have the student summarize the concept.
 
 * **Document the issue**: After explaining the concept, if the student still doesn't understand, document the issue in their admin profile. Click on their icon in at the top of their question in AAQ to get to the student’s `/admin` page. Make a note that the student is having an issue with the specific concept and explain where they're lost and what you steps you took to try to explain the issue, as well as any other relevant info.
 
@@ -129,7 +129,7 @@ We don't support these types of questions. These questions are usually regarding
 * Questions about admissions
 * Questions about billing
 * Help with assessments / portfolio projects
-* Help with non-curriculum code ( eg a side project )
+* Help with non-curriculum code ( e.g. a side project )
 
 ### Strategies for Resolution
 
