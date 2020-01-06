@@ -143,12 +143,13 @@ We don't support these types of questions. These questions are usually regarding
   * **Study Groups**: Students can check out some of the study groups we run every week, some of which are dedicated specifically to project questions. This is a great time to learn about a particular coding concept or to ask questions to a live Section Lead or Section Coach. Generally students will receive alerts or emails about study groups for their current section, but they can also see the study group schedule [here](https://learn.co/study-groups).
   * **Slack Channels**: It is fairly common for students to ask for and receive help in many of the Slack channels - there are cohort-specific channels for students in structured programs, section-specific channels (e.g. `rails-section`) channels for self-paced students, and a number of channels that should be accessible to all paying students (e.g. `general` or `nerdy-learn-neighbors`).
 
-* **All other questions**: Tell them we don't support the question type. We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions, assessments, labs, or lessons - kindly tell them we don't support the question they're asking. The safest bet might be to refer them to Student Services at `studentservices@flatiron.com`. 
+* **All other questions**: Tell them we don't support the question type. We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions, assessments, labs, or lessons - kindly tell them we don't support the question they're asking. The safest bet might be to refer them to Student Services at `studentservices@flatiron.com`.
 
 ## Resources
 
 * [Common VB Errors and related resources](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md)
 * [Instructional Videos](http://instruction.learn.co)
 * [Portfolio Project Support Help Center Article](http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project)
-* [Portfolio Project Support Form](https://theflatironschool.typeform.com/to/UUhrc7)
-* [Section leads](https://github.com/flatiron-labs/technical-coach-resources/blob/master/section-leads.md)
+* [Section Leads and Section Coaches](https://help.learn.co/en/articles/492988-who-are-the-section-leads)
+* [Study Group Schedule](https://learn.co/study-groups)
+* [Student Escalation Sheet](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform)
