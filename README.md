@@ -143,8 +143,7 @@ We don't support these types of questions. These questions are usually regarding
   * **Study Groups**: Students can check out some of the study groups we run every week, some of which are dedicated specifically to project questions. This is a great time to learn about a particular coding concept or to ask questions to a live Section Lead or Section Coach. Generally students will receive alerts or emails about study groups for their current section, but they can also see the study group schedule [here](https://learn.co/study-groups).
   * **Slack Channels**: It is fairly common for students to ask for and receive help in many of the Slack channels - there are cohort-specific channels for students in structured programs, section-specific channels (e.g. `rails-section`) channels for self-paced students, and a number of channels that should be accessible to all paying students (e.g. `general` or `nerdy-learn-neighbors`).
 
-* **All other questions**: Tell them we don't support the question type. We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions or assessments, kindly tell them we don't support the question they're asking. If the question is related to the curriculum, feel free to answer it if time is available. Otherwise you may want to give them a link to a resource or point them in the direction they should proceed (eg try googling it, checking stack overflow, asking in the Slack channel, etc).
-
+* **All other questions**: Tell them we don't support the question type. We never want to annoy or add to a student's frustration so be kind and friendly when speaking with them. For questions that are unrelated to admissions, assessments, labs, or lessons - kindly tell them we don't support the question they're asking. The safest bet might be to refer them to Student Services at `studentservices@flatiron.com`. 
 
 ## Resources
 
