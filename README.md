@@ -152,4 +152,4 @@ We don't support these types of questions. These questions are usually regarding
 * [Portfolio Project Support Help Center Article](http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project)
 * [Section Leads and Section Coaches](https://help.learn.co/en/articles/492988-who-are-the-section-leads)
 * [Study Group Schedule](https://learn.co/study-groups)
-* [Student Escalation Sheet](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform)
+* [Student Escalation Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform)
